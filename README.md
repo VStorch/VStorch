@@ -3,11 +3,11 @@
 Sou estudante do Curso Técnico em Informática do Instituto Federal de Santa Catarina
 
 <div>
-  <img height= "180cm" src= https://github-readme-stats.vercel.app/api?username=VStorch&show_icons=true&theme=tokyonight>
-  <img height= "180cm" src= https://github-readme-stats.vercel.app/api/top-langs/?username=VStorch&layout=compact&langs_count=16&theme=tokyonight>
+  <img height= "160px" src= https://github-readme-stats.vercel.app/api?username=VStorch&show_icons=true&theme=tokyonight>
+  <img height= "160px" src= https://github-readme-stats.vercel.app/api/top-langs/?username=VStorch&layout=compact&langs_count=16&theme=tokyonight>
 </div>
 
-<img src="https://raw.githubusercontent.com/manaten/oss-mascots-pixelart-icons/master/octocat.gif" width="160" align="right" alt="Octocat Pixelado Animado">
+<img src="https://raw.githubusercontent.com/manaten/oss-mascots-pixelart-icons/master/octocat.gif" width="150" align="right" alt="Octocat Pixelado Animado">
 
 ### Tecnologias que estudo e utilizo
 <div>
