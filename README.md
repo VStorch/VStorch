@@ -2,14 +2,16 @@
 
 Sou estudante do Curso Técnico em Informática do Instituto Federal de Santa Catarina
 
+<!-- Gráficos -->
 <div>
   <img height= "160px" src= https://github-readme-stats.vercel.app/api?username=VStorch&show_icons=true&theme=tokyonight>
   <img height= "160px" src= https://github-readme-stats.vercel.app/api/top-langs/?username=VStorch&layout=compact&langs_count=16&theme=tokyonight>
 </div>
 
+<!-- Gif Octocat -->
+<img src="assets/octocat.gif" width="160" align="right" alt="Octocat Pixelado Animado">
 
-
-
+<!-- Ícones -->
 ### Tecnologias que estudo e utilizo
 <div>
   <img align= "center" alt= "Java" height= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -36,4 +38,5 @@ Sou estudante do Curso Técnico em Informática do Instituto Federal de Santa Ca
 
 <hr>
 
-<sub> Octocat pixelado por <a href="https://github.com/manaten">manaten</a> – Licença MIT. Octocat é marca registrada da GitHub Inc.</sub>
+<!-- Referência Git Octocat -->
+<sub> Octocat pixelado por <a href="https://github.com/manaten">manaten</a> – Licença MIT. Octocat é marca registrada da GitHub, Inc.</sub>
