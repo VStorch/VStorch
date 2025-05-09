@@ -7,7 +7,8 @@ Sou estudante do Curso Técnico em Informática do Instituto Federal de Santa Ca
   <img height= "160px" src= https://github-readme-stats.vercel.app/api/top-langs/?username=VStorch&layout=compact&langs_count=16&theme=tokyonight>
 </div>
 
-<img src="https://raw.githubusercontent.com/manaten/oss-mascots-pixelart-icons/master/octocat.gif" width="150" align="right" alt="Octocat Pixelado Animado">
+
+
 
 ### Tecnologias que estudo e utilizo
 <div>
@@ -35,4 +36,4 @@ Sou estudante do Curso Técnico em Informática do Instituto Federal de Santa Ca
 
 <hr>
 
-<sub>Ícone por [manaten](https://github.com/manaten/oss-mascots-pixelart-icons) – Licença MIT</sub>
+<sub> Octocat pixelado por <a href="https://github.com/manaten">manaten</a> – Licença MIT. Octocat é marca registrada da GitHub Inc.</sub>
