@@ -1,8 +1,6 @@
 ## Olá, me chamo Vinícius Storch!
 
-Sou desenvolvedor em formação pelo Instituto Federal de Santa Catarina (IFSC), com forte interesse por lógica formal — das origens aristotélicas à lógica matemática moderna. Vejo na lógica não apenas uma disciplina teórica, mas um fundamento essencial para escrever software claro, correto e sustentável.
-
-Além de projetos práticos, mantenho repositórios dedicados ao estudo da lógica proposicional, predicativa e silogística, explorando também suas diferentes aplicações.
+Sou desenvolvedor em formação pelo Instituto Federal de Santa Catarina (IFSC), com paixão por desenvolvimento de sistemas e grande apreço pela lógica formal, algo que se reflete nos meus trabalhos.
 
 ---
 
