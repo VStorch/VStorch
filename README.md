@@ -5,7 +5,7 @@ Sou desenvolvedor formado pelo Instituto Federal de Santa Catarina (IFSC), com i
 
 Tenho grande apreço pela lógica formal e pela estrutura dos sistemas, buscando escrever código claro, coerente e fundamentado.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-storch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-storch-835862354/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusstorch62@gmail.com)
 
 <!-- Gif Octocat -->
