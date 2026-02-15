@@ -17,7 +17,7 @@ Tenho grande apreço pela lógica formal e pela estrutura dos sistemas, buscando
 - Arquitetura e design de software
 - Backend e APIs
 - Modelagem lógica e estrutural
-- Desenvolvimento de sistemas e jogos
+- Desenvolvimento de sistemas
 
 ---
 
@@ -38,7 +38,7 @@ Repositórios:
 <br>
 
 **Pre-Historic Run — Jogo Endless Runner 2D em Unity**  
-Jogo 2D *endless runner* desenvolvido em Unity, onde você controla um tigre-dentes-de-sabres correndo por cenários pré-históricos com ambientação que alterna entre verão e inverno.  
+Jogo 2D *endless runner* desenvolvido em Unity, onde você controla um tigre-dentes-de-sabre correndo por cenários pré-históricos com ambientação que alterna entre verão e inverno.  
 O foco do projeto está em mecânicas de jogo consistentes, gerenciamento de estados (movimento, obstáculos, coleta de itens), e loop de jogo contínuo, além de um sistema de pontuação que incentiva a superação de recordes.
 
 Tecnologias: Unity, C#<br>
@@ -50,11 +50,11 @@ Repositório: https://github.com/VStorch/Pre-Historic-Run
 <!-- Gráficos -->
 <div align="center">
 
-<img height="160px" src="https://github-readme-stats-six-nu-70.vercel.app/api?username=VStorch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img height="160px" src="https://github-readme-stats-six-nu-70.vercel.app/api?username=VStorch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&border_radius=8"/>
 
-<img height="160px" src="https://github-readme-stats-six-nu-70.vercel.app/api/top-langs/?username=VStorch&layout=compact&langs_count=6&theme=tokyonight&hide=html,css"/>
+<img height="160px" src="https://github-readme-stats-six-nu-70.vercel.app/api/top-langs/?username=VStorch&layout=compact&langs_count=6&theme=tokyonight&hide=html,css&hide_border=true&border_radius=8"/>
 
-<img height="160px" src="https://streak-stats.demolab.com?user=VStorch&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="160px" src="https://streak-stats.demolab.com?user=VStorch&theme=tokyonight&hide_border=true&count_private=true&border_radius=8"/>
 
 </div>
 
