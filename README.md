@@ -48,12 +48,15 @@ Repositório: https://github.com/VStorch/Pre-Historic-Run
 
 ### Atividades no GitHub
 <!-- Gráficos -->
-<div>
-  <img height= "160px" src= "https://github-readme-stats.vercel.app/api?username=VStorch&show_icons=true&theme=tokyonight">
-  <img height= "160px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=VStorch&layout=compact&langs_count=16&theme=tokyonight&hide=html,css">
+<div align="center">
+
+<img height="160px" src="https://github-readme-stats-six-nu-70.vercel.app/api?username=VStorch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
+
+<img height="160px" src="https://github-readme-stats-six-nu-70.vercel.app/api/top-langs/?username=VStorch&layout=compact&langs_count=6&theme=tokyonight&hide=html,css"/>
+
+<img height="160px" src="https://streak-stats.demolab.com?user=VStorch&theme=tokyonight&hide_border=true&count_private=true"/>
+
 </div>
-
-
 
 ---
 
