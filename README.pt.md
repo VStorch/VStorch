@@ -1,60 +1,57 @@
-## Hello, I'm Vinícius Storch!
-<sub><i>"Functioning is necessary; making sense is essential."</i></sub>
+## Olá, me chamo Vinícius Storch!
+<sub><i>“Funcionar é necessário; fazer sentido é essencial.”</i></sub>
 
-🇺🇸 English | 🇧🇷 [Português](README.pt.md)
+🇧🇷 Português | 🇺🇸 [English](README.md)
 
-I am a software developer with a degree from the Instituto Federal de Santa Catarina (IFSC), with a strong interest in **systems development**, **backend engineering**, and **logical modeling**.
+Sou desenvolvedor formado pelo Instituto Federal de Santa Catarina (IFSC), com interesse em **desenvolvimento de sistemas**, **backend** e **modelagem lógica**.
 
-I have a deep appreciation for formal logic and system structure, always aiming to write code that is clear, coherent, and well-grounded.
+Tenho grande apreço pela lógica formal e pela estrutura dos sistemas, buscando escrever código claro, coerente e fundamentado.
 
-Currently seeking opportunities as a **Junior Backend Developer**.
+Em busca de oportunidades como **Desenvolvedor Backend Júnior**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-storch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-storch-835862354/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusstorch62@gmail.com)
 
-<img src="assets/octocat.gif" width="160" align="right" alt="Animated Pixel Octocat">
+<!-- Gif Octocat -->
+<img src="assets/octocat.gif" width="160" align="right" alt="Octocat Pixelado Animado">
 
 ---
 
-### Areas of Interest
-
-- Software architecture and design
-- Backend development and APIs
-- Logical and structural modeling
-- Systems development
+### Áreas de interesse
+- Arquitetura e design de software
+- Backend e APIs
+- Modelagem lógica e estrutural
+- Desenvolvimento de sistemas
 
 ---
 
-### Featured Projects
+### Projetos em destaque
 
-**Torch — Pet Shop Appointment System**
+**Torch — Sistema de agendamento para Pet Shops**  
+Sistema completo para agendamento de serviços de Pet Shops, desenvolvido em grupo, envolvendo **backend**, **aplicativo mobile** e **integração web**.
 
-A complete scheduling system for pet shop services, developed as a group project, involving **backend**, **mobile application**, and **web integration**.
+O projeto foi pensado como um ecossistema coeso: a API gerencia autenticação, usuários e serviços; o app Flutter consome os endpoints; e uma página web intermediária trata a redefinição de senha via **token + deep link**, conectando e-mail, navegador e aplicativo de forma consistente.
 
-The project was designed as a cohesive ecosystem: the API handles authentication, users, and services; the Flutter app consumes the endpoints; and an intermediate web page manages password reset via **token + deep link**, connecting email, browser, and mobile application in a consistent workflow.
-
-Technologies: Java, Spring Boot, MySQL, Docker, Flutter, HTML/CSS/JavaScript  
-Repositories:
-
+Tecnologias: Java, Spring Boot, MySQL, Docker, Flutter, HTML/CSS/JavaScript<br>
+Repositórios:
 - Backend: https://github.com/VStorch/TorchAppBackend  
-- Mobile App: https://github.com/VStorch/TorchApp  
-- Redirect Page: https://github.com/VStorch/PaginaRedirecionamento
+- App Mobile: https://github.com/VStorch/TorchApp  
+- Página de Redirecionamento: https://github.com/VStorch/PaginaRedirecionamento
+
+---
+<br>
+
+**Pre-Historic Run — Jogo Endless Runner 2D em Unity**  
+Jogo 2D *endless runner* desenvolvido em Unity, onde você controla um tigre-dentes-de-sabre correndo por cenários pré-históricos com ambientação que alterna entre verão e inverno.  
+O foco do projeto está em mecânicas de jogo consistentes, gerenciamento de estados (movimento, obstáculos, coleta de itens), e loop de jogo contínuo, além de um sistema de pontuação que incentiva a superação de recordes.
+
+Tecnologias: Unity, C#<br>
+Repositório: https://github.com/VStorch/Pre-Historic-Run
 
 ---
 
-**Pre-Historic Run — 2D Endless Runner Game in Unity**
-
-A 2D endless runner game developed in Unity where the player controls a **saber-toothed tiger** running through prehistoric environments with seasonal variations between summer and winter.
-
-The project focuses on consistent gameplay mechanics, state management (movement, obstacles, item collection), and a continuous gameplay loop, as well as a score system designed to encourage players to beat their records.
-
-Technologies: Unity, C#  
-Repository: https://github.com/VStorch/Pre-Historic-Run
-
----
-
-### GitHub Activity
-
+### Atividades no GitHub
+<!-- Gráficos -->
 <div align="center">
 
 <img height="160px" src="https://github-readme-stats-six-nu-70.vercel.app/api?username=VStorch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&border_radius=8"/>
@@ -67,7 +64,8 @@ Repository: https://github.com/VStorch/Pre-Historic-Run
 
 ---
 
-### Main Technologies
+<!-- Ícones -->
+### Tecnologias principais
 <div>
   <img align="center" alt="Java" height="30" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -83,7 +81,7 @@ Repository: https://github.com/VStorch/Pre-Historic-Run
 
 ---
 
-### Other Technologies
+### Outras tecnologias
 <div>
   <img align="center" alt="JavaScript" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -99,7 +97,7 @@ Repository: https://github.com/VStorch/Pre-Historic-Run
 
 ---
 
-### Tools
+### Ferramentas
 <div>
   <img align="center" alt="VSCode" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
@@ -113,7 +111,7 @@ Repository: https://github.com/VStorch/Pre-Historic-Run
 
 ---
 
-### Modeling and Databases
+### Modelagem e Bancos de Dados
 <div>
   <img align="center" alt="UML" height="30" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" />
@@ -123,4 +121,5 @@ Repository: https://github.com/VStorch/Pre-Historic-Run
 
 ---
 
-<sub> Pixel Octocat by <a href="https://github.com/manaten">manaten</a> – MIT License. Octocat is a registered trademark of GitHub, Inc.</sub>
+<!-- Referência Git Octocat -->
+<sub> Octocat pixelado por <a href="https://github.com/manaten">manaten</a> – Licença MIT. Octocat é marca registrada da GitHub, Inc.</sub>
