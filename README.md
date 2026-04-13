@@ -1,11 +1,10 @@
 ## Hello, I'm Vinícius Storch!
-<sub><i>"Functioning is necessary; making sense is essential."</i></sub>
 
 🇺🇸 English | 🇧🇷 [Português](README.pt.md)
 
-I am a software developer with a degree from the Instituto Federal de Santa Catarina (IFSC), with a strong interest in **systems development**, **backend engineering**, and **logical modeling**.
+Junior Backend Developer | Java • Spring Boot • REST APIs • SQL • Docker
 
-I have a deep appreciation for formal logic and system structure, always aiming to write code that is clear, coherent, and well-grounded.
+Backend-focused software developer with experience in building **REST APIs**, **layered architectures**, and **data-driven systems**.
 
 Currently seeking opportunities as a **Junior Backend Developer**.
 
@@ -16,40 +15,68 @@ Currently seeking opportunities as a **Junior Backend Developer**.
 
 ---
 
-### Areas of Interest
+### Core Skills
 
 - Software architecture and design
-- Backend development and APIs
-- Logical and structural modeling
-- Systems development
+- REST API design (resource modeling, validation, error handling)
+- Backend development with Java (Spring Boot) and .NET
+- Layered architecture (Controller, Service, Repository)
+- Data modeling with relational databases (normalization, constraints)
+- JPA/Hibernate (entity mapping, relationships, consistency)
 
 ---
 
 ### Featured Projects
 
-**Torch — Pet Shop Appointment System**
+#### **Torch — Pet Shop Appointment System**
 
-A complete scheduling system for pet shop services, developed as a group project, involving **backend**, **mobile application**, and **web integration**.
+**Overview**
 
-The project was designed as a cohesive ecosystem: the API handles authentication, users, and services; the Flutter app consumes the endpoints; and an intermediate web page manages password reset via **token + deep link**, connecting email, browser, and mobile application in a consistent workflow.
+Full-stack appointment scheduling system for pet shops, designed to model real-world business workflows.
 
-Technologies: Java, Spring Boot, MySQL, Docker, Flutter, HTML/CSS/JavaScript  
+The system handles user management, pet registration, service scheduling, and time slot management, ensuring data consistency, business rule enforcement, and clear separation of responsibilities across layers.
+
+Includes features such as email-based password recovery, deep linking integration, and containerization with Docker.
+
+**Technologies**
+
+- Java 21, Spring Boot, JPA/Hibernate
+- MySQL
+- Docker / Docker Compose
+- Flutter (mobile client)
+- HTML/CSS/JavaScript (web integration)
+
+**Key Contributions**
+
+- Designed domain models and business rules for scheduling system (users, roles, services, time slots, appointments)
+- Implemented DTO and mapping layers to decouple API contracts from domain models
+- Implemented scheduling logic ensuring consistency between available slots and booked appointments
+- Designed and structured relational data model using JPA/Hibernate, ensuring consistency across entities
+- Containerized backend and database using Docker Compose for reproducible environments
+- Produced comprehensive technical documentation, including architecture, domain models, and API flow
+
+**Architecture Highlights**
+- Layered architecture (Controller, Service, Repository)
+- DTO pattern for API/domain decoupling
+- Clear package organization for scalability and maintainability
+
 Repositories:
 
-- Backend: https://github.com/VStorch/TorchAppBackend  
-- Mobile App: https://github.com/VStorch/TorchApp  
-- Redirect Page: https://github.com/VStorch/PaginaRedirecionamento
+- Backend: [TorchAppBackend](https://github.com/VStorch/TorchAppBackend)
+- Mobile: [TorchApp](https://github.com/VStorch/TorchApp)
+- Redirect Page: [PaginaRedirecionamento](https://github.com/VStorch/PaginaRedirecionamento)
 
 ---
 
-**Pre-Historic Run — 2D Endless Runner Game in Unity**
+#### **Pre-Historic Run — 2D Endless Runner Game in Unity**
 
 A 2D endless runner game developed in Unity where the player controls a **saber-toothed tiger** running through prehistoric environments with seasonal variations between summer and winter.
 
-The project focuses on consistent gameplay mechanics, state management (movement, obstacles, item collection), and a continuous gameplay loop, as well as a score system designed to encourage players to beat their records.
+Implemented gameplay systems using state-based logic (movement, obstacles, scoring), with focus on consistency and continuous game loop design.
 
-Technologies: Unity, C#  
-Repository: https://github.com/VStorch/Pre-Historic-Run
+Technologies: Unity, C#
+
+Repository: [Pre-Historic Run](https://github.com/VStorch/Pre-Historic-Run)
 
 ---
 
@@ -85,16 +112,16 @@ Repository: https://github.com/VStorch/Pre-Historic-Run
 
 ### Other Technologies
 <div>
+  <img align="center" alt="DotNet" height="30" width="40"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+  <img align="center" alt="Flutter" height="30" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
   <img align="center" alt="JavaScript" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" alt="HTML5" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS3" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img align="center" alt="Flutter" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-  <img align="center" alt="C" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 </div>
 
 ---
